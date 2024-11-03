@@ -1,4 +1,4 @@
-TopoOrg_Model notebook contains the main model and a breif explanation
+TopoOrg_Model notebook contains the main model and a brief explanation
 of the objective of the project. Skin_Patch_V2 file generates the data
 the model is trained with and TopoOrg_Analysis is a supplementary file 
 showing the major atributes of the model in more detail.
